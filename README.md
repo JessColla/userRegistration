@@ -1,6 +1,6 @@
 # Projeto do Desafio de Cadastro de Usuários
 
-### <p align="center" >Cadastro de Usuários</p>
+
 ---
 
 Neste desafio foi criado um cadastro de usuários simples com os seguintes requerimentos:
