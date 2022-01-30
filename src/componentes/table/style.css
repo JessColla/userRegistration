@@ -1,0 +1,20 @@
+.botaoChevronRightIcon {
+    border: none;
+    background: transparent;
+}
+
+.tableHead {
+    background-color: #00385b;
+    /* padding: 8px; */
+    border-radius: 10px 10px 0 0;
+    overflow: hidden;
+}
+
+.tableHead tr th {
+    color: #fff;
+}
+
+.tableHead tr th,
+.tableBody>tr td {
+    padding: 8px 16px;
+}

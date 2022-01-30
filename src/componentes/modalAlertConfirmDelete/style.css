@@ -1,0 +1,31 @@
+.salvar {
+    border-radius: 20px;
+    background: #61CE70;
+    border: #61CE70 solid 1px;
+    border: none;
+    padding: 10px 20px;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    align-items: flex-start;
+    font-size: 15px;
+    margin-left: 10px;
+    height: 40px;
+}
+
+.cancelar {
+    border-radius: 20px;
+    border: #61CE70 solid 1px;
+    padding: 10px 20px;
+    color: #61CE70;
+    font-family: 'Lato', sans-serif;
+    align-items: flex-start;
+    font-size: 15px;
+    background-color: transparent;
+    height: 40px;
+    margin-top: 30px;
+
+}
+
+.cancelar:hover {
+    color: black;
+}
