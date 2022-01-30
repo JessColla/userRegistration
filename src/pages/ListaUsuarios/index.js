@@ -77,6 +77,7 @@ function ListaUsuarios() {
 
   React.useEffect(() => {
     loadingUsers();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [page]);
 
   return (
