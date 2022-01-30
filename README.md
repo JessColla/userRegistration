@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Projeto do Desafio de Cadastro de Usuários
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### <p align="center" >Cadastro de Usuários</p>
+---
 
-## Available Scripts
+Neste desafio foi criado um cadastro de usuários simples com os seguintes requerimentos:
+*Exibir uma listagem de usuários cadastrados
+* Ter uma tela de cadastro de usuários contento os seguintes campos: nome, email, status e
+gênero;
+* Ter uma tela de detalhes para visualização dos dados do usuário e alteração dos dados
+* Usar um framework para estilização das telas. (ex: Tailwind, Bootstrap, Material Design, etc...)
 
-In the project directory, you can run:
+No site da [Go REST](https://gorest.co.in
+) é possivel encontrar a API utilizada neste projeto.
+
+<br>
+
+
+Link do projeto hospedado na [Vercel](desafio-cadastro-usuarios.vercel.app)  ⚡
+
+Para conhecer um pouquinho mais sobre mim acesse meu perfil no Linkedin [Jessica Colla](https://www.linkedin.com/in/jessica-colla-4848a5116/)  😄
+
+<br>
+
+## Scripts Disponíveis
+
+---
+No diretório do projeto, você pode executar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Executa o aplicativo no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A página será recarregada quando você fizer alterações.\
+Você também pode ver erros de lint no console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Tecnologias
+---
+* [React](https://expo.io/)
+* [Axios](https://github.com/axios/axios)
+* [Material UI](https://mui.com/pt/)
+* [React Router DOM](https://v5.reactrouter.com/)
