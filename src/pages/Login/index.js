@@ -35,11 +35,6 @@ function Login() {
   return (
     <div className="background">
       <div className="elemento-background">
-        <img
-          style={{ margin: 30 }}
-          src="https://cargon.com.br/wp-content/uploads/cargon_marca_branco-1.svg"
-          alt="logo"
-        ></img>
         <div className="PagLoginBackground">
           <div className="pagLogin">
             <div className="btn">

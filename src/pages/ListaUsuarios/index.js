@@ -9,8 +9,6 @@ import Button from "../../componentes/button";
 
 import { httpclient } from "../../services/httpclient";
 
-import Logo from "../../img/cargon.png";
-
 function ListaUsuarios() {
   const [open, setOpen] = React.useState(false);
   const [page, setPage] = React.useState(0);
@@ -83,8 +81,6 @@ function ListaUsuarios() {
   return (
     <>
       <div className="cardListaUsuarios">
-        <img src={Logo} alt="logo" className="img" />
-
         <div className="container">
           <div className="containercabecalho">
             <h2 className="containertexto">Lista de Usuários</h2>
