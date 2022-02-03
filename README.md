@@ -1,8 +1,5 @@
 # Projeto do Desafio de Cadastro de Usuários
 
-### <p align="center" >Cadastro de Usuários</p>
----
-
 Neste desafio foi criado um cadastro de usuários simples com os seguintes requerimentos:
 *Exibir uma listagem de usuários cadastrados
 * Ter uma tela de cadastro de usuários contento os seguintes campos: nome, email, status e
@@ -16,7 +13,8 @@ No site da [Go REST](https://gorest.co.in
 <br>
 
 
-Link do projeto hospedado na [Vercel](desafio-cadastro-usuarios.vercel.app)  ⚡
+Link do projeto hospedado na [Vercel](https://desafio-cadastro-usuarios.vercel.app/)  ⚡
+>>>>>>> f82569935a725d279d1ae579b511d12429e79c20
 
 Para conhecer um pouquinho mais sobre mim acesse meu perfil no Linkedin [Jessica Colla](https://www.linkedin.com/in/jessica-colla-4848a5116/)  😄
 
@@ -39,6 +37,7 @@ Você também pode ver erros de lint no console.
 ### Tecnologias
 ---
 * [React](https://expo.io/)
-* [Styled Components](https://reactnative.dev/docs/stylesheet)
 * [Axios](https://github.com/axios/axios)
-* [Context](https://pt-br.reactjs.org/docs/context.html)
+* [Material UI](https://mui.com/pt/)
+* [React Router DOM](https://v5.reactrouter.com/)
+
