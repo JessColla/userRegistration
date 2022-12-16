@@ -1,43 +1,12 @@
-# Projeto do Desafio de Cadastro de Usuários
+# User registration
 
-Neste desafio foi criado um cadastro de usuários simples com os seguintes requerimentos:
-*Exibir uma listagem de usuários cadastrados
-* Ter uma tela de cadastro de usuários contento os seguintes campos: nome, email, status e
-gênero;
-* Ter uma tela de detalhes para visualização dos dados do usuário e alteração dos dados
-* Usar um framework para estilização das telas. (ex: Tailwind, Bootstrap, Material Design, etc...)
+This project aims to register, update and delete a user.
 
-No site da [Go REST](https://gorest.co.in
-) é possivel encontrar a API utilizada neste projeto.
+## 🛠️ Built with
 
-<br>
-
-
-Link do projeto hospedado na [Vercel](https://desafio-cadastro-usuarios.vercel.app/)  ⚡
->>>>>>> f82569935a725d279d1ae579b511d12429e79c20
-
-Para conhecer um pouquinho mais sobre mim acesse meu perfil no Linkedin [Jessica Colla](https://www.linkedin.com/in/jessica-colla-4848a5116/)  😄
-
-<br>
-
-## Scripts Disponíveis
+* [React.js](https://pt-br.reactjs.org/) 
+* [Node.js](https://nodejs.org/en/)
+* 
 
 ---
-No diretório do projeto, você pode executar:
-
-### `npm start`
-
-Executa o aplicativo no modo de desenvolvimento.\
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
-
-A página será recarregada quando você fizer alterações.\
-Você também pode ver erros de lint no console.
-
-
-### Tecnologias
----
-* [React](https://expo.io/)
-* [Axios](https://github.com/axios/axios)
-* [Material UI](https://mui.com/pt/)
-* [React Router DOM](https://v5.reactrouter.com/)
-
+⌨️ with ❤️ by [Jessica Colla](https://github.com/JessColla) 😊
